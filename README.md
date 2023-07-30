@@ -1,7 +1,8 @@
-## Hi there, I'm Lucas!
-### It's nice that you have visited my profile! 👋
-#### Check my statistics below:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucmsilva651&show_icons=true&theme=transparent)
+## Hi there, I'm Lucas! It's nice that you have visited my profile!
+### Check my statistics below:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucmsilva651&show_icons=true&theme=synthwave)
+
 #### Other things about me:
 - 🔭 I'm currently working on [ydl-cli](https://github.com/ydl-team/ydl-cli)
 - 🌱 I'm currently learning Python, but I have some experience on it
