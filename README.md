@@ -1,5 +1,5 @@
 ## Hi there, I'm Lucas! It's nice that you have visited my profile!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucmsilva651&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucmsilva651&show_icons=true&theme=synthwave&disable_animations=true&show=reviews,discussions_started)
 
 #### Other things about me:
 - I'm currently working on [ydl-team/ydl-cli](https://github.com/ydl-team/ydl-cli)
