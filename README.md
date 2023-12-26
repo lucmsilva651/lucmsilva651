@@ -6,3 +6,5 @@
 - I'm from Brazil (we talk Portuguese, not Spanish bruh)
 - How to reach me: [Talk with me in Telegram](https://t.me/lucmsilva/)
 - A fun fact: I have a large experience in Batch hehehe
+- 
+![:LoliCount](https://count.getloli.com/get/@:lucmsilva?theme=rule34)
