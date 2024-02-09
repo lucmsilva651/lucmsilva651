@@ -8,6 +8,6 @@ If you want to know about me, just check it out my website: [https://www.eleu.me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucmsilva651&disable_animations=true&theme=dracula&hide=scss,less)](https://github.com/anuraghazra/github-readme-stats)
 
-> _LoliCount below ;)_
+> _LoliCount below since Dec 25 2023_
+> 
 > ![LoliCount](https://count.getloli.com/get/@lucmsilva?theme=rule34)
-> _Started on Dec 25 2023_
