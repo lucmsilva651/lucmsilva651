@@ -1,11 +1,11 @@
 ## Hi there, I'm Lucas! It's nice that you have visited my profile!
 
-I am a 14 year old guy who wants to discover more things and explore some others.
+If you want to know about me, just check it out my website: [https://www.eleu.me](https://www.eleu.me)
 
-And if you want to know more about me, just check it out my website: [https://www.eleu.me](https://www.eleu.me)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucmsilva651&theme=dracula&disable_animations=true&rank_icon=github&hide=prs,contribs&include_all_commits=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucmsilva651&theme=synthwave&hide=scss,less)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucmsilva651&disable_animations=true&theme=dracula&hide=scss,less)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucmsilva651&theme=synthwave&disable_animations=true&rank_icon=github&hide=prs,contribs&include_all_commits=true&show_icons=true)
-
-![LoliCount](https://count.getloli.com/get/@lucmsilva?theme=rule34)
+> _LoliCount below ;)_
+> ![LoliCount](https://count.getloli.com/get/@lucmsilva?theme=rule34)
+> _Started on Dec 25 2023_
