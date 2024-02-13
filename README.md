@@ -4,7 +4,7 @@ If you want to know about me, just check it out my website: [https://www.eleu.me
 
 <div align="center">
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTRoy3MnTQAT0aT84KbUZ4Q) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/lucmsilvagg)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTRoy3MnTQAT0aT84KbUZ4Q)](https://www.youtube.com/channel/UCTRoy3MnTQAT0aT84KbUZ4Q) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/lucmsilvagg)](https://x.com/lucmsilvagg)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucmsilva651&theme=dracula&disable_animations=true&rank_icon=github&hide=prs,contribs&include_all_commits=true&show_icons=true)](#)
 
