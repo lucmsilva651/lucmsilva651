@@ -16,7 +16,7 @@ If you want to know some things about me, you can just go to my website: [https:
 
 > ``"LoliCounting" since December 25 2023``
 > 
-> [![LoliCount](https://count.getloli.com/get/@lucmsilva?theme=rule34)](http://gg.gg/1909vm)]
+> [![LoliCount](https://count.getloli.com/get/@lucmsilva?theme=rule34)](http://gg.gg/1909vm)
 > ###### click on the lolis for a cookie
 
 </div>
