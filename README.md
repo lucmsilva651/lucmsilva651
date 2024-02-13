@@ -1,8 +1,8 @@
+<div align="center">
+
 ## Hi there, I'm Lucas! It's nice that you have visited my profile!
 
 If you want to know some things about me, you can just go to my website: [https://www.eleu.me](https://www.eleu.me)
-
-<div align="center">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTRoy3MnTQAT0aT84KbUZ4Q)](https://www.youtube.com/channel/UCTRoy3MnTQAT0aT84KbUZ4Q) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/lucmsilvagg)](https://x.com/lucmsilvagg)
 
