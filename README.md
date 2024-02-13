@@ -12,7 +12,7 @@ If you want to know some things about me, you can just go to my website: [https:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucmsilva651&disable_animations=true&theme=dracula&hide=scss,less)](#)
 
-> _LoliCount below since Dec 25 2023_
+> ``"LoliCounting" since December 25 2023``
 > 
 > ![LoliCount](https://count.getloli.com/get/@lucmsilva?theme=rule34)
 
