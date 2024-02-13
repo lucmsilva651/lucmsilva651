@@ -10,7 +10,7 @@ If you want to know about me, just check it out my website: [https://www.eleu.me
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lucmsilva651&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucmsilva651&disable_animations=true&theme=dracula&hide=scss,less)](https://github.com/anuraghazra/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucmsilva651&disable_animations=true&theme=dracula&hide=scss,less)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
