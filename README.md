@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas! It's nice that you have visited my profile!
 
-If you want to know about me, just check it out my website: [https://www.eleu.me](https://www.eleu.me)
+If you want to know some things about me, you can just go to my website: [https://www.eleu.me](https://www.eleu.me)
 
 <div align="center">
 
