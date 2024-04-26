@@ -3,7 +3,7 @@
   # Hello! Welcome!
   
   ## Who I am?
-  I'm Brazilian, I'm 14 years old and I'm always curious about new things to explore in the world of programming.
+  I'm brazilian, I'm 14 years old and I'm always curious about new things to explore in the world of programming.
 
   ## What do I do?
   I create websites, scripts, digital art and a few other things.
