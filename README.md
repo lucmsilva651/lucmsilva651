@@ -1,13 +1,13 @@
 # Hello! Welcome!
 
-## Who I am?
-I'm brazilian, I'm 14 years old and I'm always curious about new things to explore in the world of programming.
+## Who am I?
+I'm Brazilian, I'm 14 years old, and I'm always curious about new things to explore in the world of programming.
 
 ## What do I do?
-I create websites, scripts, digital art and a few other things.
+I create websites, scripts, digital art, and a few other things.
 
 ## My website/social media
-If you want to know more things about me, you can just go to my website: [https://www.eleu.me](https://www.eleu.me)
+If you want to know more about me, you can visit my website: [https://www.eleu.me](https://www.eleu.me)
 
 <br>
 <div align="center">
@@ -30,8 +30,8 @@ If you want to know more things about me, you can just go to my website: [https:
 
 </details>
   
-``"LoliCounting" since December 25 2023``
- 
+``LoliCounting`` since December 25, 2023
+
 [![LoliCount](https://count.getloli.com/get/@lucmsilva?theme=rule34)](http://go.eleu.me/yt-test-link)
  
 🤓☝️
