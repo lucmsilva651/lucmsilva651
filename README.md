@@ -1,13 +1,4 @@
-# Hello! Welcome!
-
-## Who am I?
-I'm Brazilian, I'm 14 years old, and I'm always curious about new things to explore in the world of programming.
-
-## What do I do?
-I create websites, scripts, digital art, and a few other things.
-
-## My website/social media
-If you want to know more about me, you can visit my website: [https://www.eleu.me](https://www.eleu.me)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2500&pause=1500&color=FFFFFF&background=282A36&center=true&vCenter=true&random=false&width=435&lines=Welcome!+%F0%9F%92%9C;I+am+Lucas%2C+aka+lucmsilva...;Nice+to+meet+you!;I+am+a+hobbyist+developer.;Check+out+my+website!;https%3A%2F%2Fwww.eleu.me" alt="Typing SVG" /></a>
 
 <br>
 <div align="center">
@@ -27,13 +18,6 @@ If you want to know more about me, you can visit my website: [https://www.eleu.m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucmsilva651&disable_animations=true&theme=dracula&hide=scss,less,c&hide_border=true&layout=donut)](#)
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=lucmsilva&bg_color=282a36)](https://www.last.fm/user/lucmsilva)
-
 </details>
-  
-``LoliCounting`` since December 25, 2023
-
-[![LoliCount](https://count.getloli.com/get/@lucmsilva?theme=rule34)](http://go.eleu.me/yt-test-link)
- 
 🤓☝️
-
 </div>
