@@ -6,6 +6,10 @@
 [![](https://img.shields.io/youtube/channel/views/UCTRoy3MnTQAT0aT84KbUZ4Q?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCTRoy3MnTQAT0aT84KbUZ4Q/videos)
 [![](https://img.shields.io/github/followers/lucmsilva651?style=for-the-badge&logo=github)](https://github.com/lucmsilva651/lucmsilva651/)
 
+![](https://komarev.com/ghpvc/?username=lucmsilva651&style=for-the-badge)
+
+``views have been reset because the old api died``
+
 <details>
   <summary>GitHub Stats and Last.fm</summary>
 <br>
