@@ -2,7 +2,7 @@
 <img align="left" width="270" height="270" src="https://wallpapers.com/images/hd/cute-anime-girl-pfp-onnanoko-strawberries-and-hearts-ur1xrjbm1ipqr3wu.jpg">
 </a>
 
-<div align="center">
+<div align="right">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2500&pause=1500&color=FFFFFF&background=24242e&center=true&vCenter=true&random=false&width=435&lines=Welcome!+%F0%9F%92%9C;I+am+Lucas%2C+aka.+lucmsilva...;Nice+to+meet+you!;I+am+a+hobbyist+developer.;Check+out+my+website!;https%3A%2F%2Fwww.eleu.me" alt="Typing SVG" /></a>
 
