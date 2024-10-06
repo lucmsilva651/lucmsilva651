@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/watch?v=bn7uMwXYU9U" target="_blank" rel="noreferrer noopener">
-<img align="left" width="277" height="277" src="https://wallpapers.com/images/hd/cute-anime-girl-pfp-onnanoko-strawberries-and-hearts-ur1xrjbm1ipqr3wu.jpg">
+<img align="left" width="270" height="270" src="https://wallpapers.com/images/hd/cute-anime-girl-pfp-onnanoko-strawberries-and-hearts-ur1xrjbm1ipqr3wu.jpg">
 </a>
 
 <div align="center">
