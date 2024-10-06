@@ -10,9 +10,10 @@
 [![](https://img.shields.io/youtube/channel/views/UCTRoy3MnTQAT0aT84KbUZ4Q?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCTRoy3MnTQAT0aT84KbUZ4Q/videos)
 
 [![](https://img.shields.io/github/followers/lucmsilva651?style=for-the-badge&logo=github)](https://github.com/lucmsilva651/)
+<!-- ignore that base=8500 bcs i migrated from lolicount -->
 ![](https://komarev.com/ghpvc/?username=lucmsilva651&style=for-the-badge&abbreviated=true&base=8500)
 
-``views have been reset because the old api died``
+``views have been restored from lolicount``
 
 [GitHub Stats and Last.fm](STATS.md)
 
