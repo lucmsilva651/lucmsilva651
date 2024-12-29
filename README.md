@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/watch?v=bn7uMwXYU9U" target="_blank" rel="noreferrer noopener">
-<img align="left" width="320" height="320" src="https://wallpapers.com/images/hd/cute-anime-girl-pfp-onnanoko-strawberries-and-hearts-ur1xrjbm1ipqr3wu.jpg">
+<img align="left" width="355" height="355" src="https://wallpapers.com/images/hd/cute-anime-girl-pfp-onnanoko-strawberries-and-hearts-ur1xrjbm1ipqr3wu.jpg">
 </a>
 
 <div align="right">
@@ -15,7 +15,8 @@
 
 ``views have been restored from lolicount``
 
-Most used licenses: BSD-3-Clause (Main) / MIT License
+Most used licenses: BSD-3-Clause (Main) / MIT License\
+My dream: Being a [Microsoft MVP](https://mvp.microsoft.com/)
 
 [GitHub Stats and Last.fm](STATS.md)\
 [Donate / support me](https://www.lucmsilva.com/#donate)
