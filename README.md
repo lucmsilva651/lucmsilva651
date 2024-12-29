@@ -16,7 +16,7 @@
 ``views have been restored from lolicount``
 
 Most used licenses: BSD-3-Clause (Main) / MIT License\
-My dream: Being a [Microsoft MVP](https://mvp.microsoft.com/)
+My dream: To be a [Microsoft MVP](https://mvp.microsoft.com/)
 
 [GitHub Stats and Last.fm](STATS.md)\
 [Donate / support me](https://www.lucmsilva.com/#donate)
